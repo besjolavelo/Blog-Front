@@ -1,0 +1,173 @@
+
+.container {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .backButton {
+    background:none;
+    color: #00676c;
+    border: none;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 18px;
+
+  }
+  
+  .backButton:hover {
+    color: #04393b;
+    background: none;
+    text-decoration: none;
+  }
+  
+  .postDetails {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    
+    flex-direction: column;
+    display: flex;
+  }
+  
+  .postHeader {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .profileContainer {
+    display: flex;
+    align-items: center;
+  }
+  
+  .authorPhoto {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 15px;
+  }
+  
+  .authorName {
+    font-weight: bold;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  .postInfo{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    
+  }
+  .postInfo2{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .postImage {
+    width: 600px;
+
+    height: 600px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    object-fit: cover;
+    
+  }
+  
+  .postTitle {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .postContent {
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  
+  
+  .likeSection {
+    display: flex;
+    align-items: center;
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  .liked {
+    color: gold;
+  }
+  
+  .unliked {
+    color: #ccc;
+  }
+  
+  .likeCount {
+    margin-left: 10px;
+  }
+  
+  .commentSection {
+    margin-top: 20px;
+  }
+  .commentSection h3{
+    font-size: 20px;
+  }
+  
+  .commentsList {
+    margin-bottom: 20px;
+  }
+  
+  .commentItem {
+    margin-bottom: 4px;
+    border-bottom: 1px solid #eee;
+    
+    flex-direction: row;
+    display: flex;
+    align-items: baseline;
+  }
+  
+  .commentAuthor {
+    font-weight: bold;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    font-size: 16px;
+  }
+  
+  .commentContent {
+    font-size: 16px;
+  }
+  
+  .commentInput {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 1px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+  }
+  
+  .addCommentButton {
+    background-color: #00676c;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .addCommentButton:hover {
+    background-color: #04393b;
+  }
+  
+  .error {
+    color: red;
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  

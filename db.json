@@ -1,0 +1,202 @@
+{
+  "users": [
+    
+    [
+      {
+        "_id": "66d07a2c45b13a79028a3650",
+        "username": "john_doe",
+        "email": "john@example.com",
+        "passwordHash": "$2b$10$rV3qpmf1Br96oe2oYOBBguHLBk1mf4hO55bH0qPbjPgOyVQ236Qwa",
+        "dateOfBirth": "1990-01-01T00:00:00.000Z",
+        "bio": "Developer",
+        "location": "USA",
+        "posts": [
+          {
+            "_id": "66dd8e2a5175c491fc16c827",
+            "title": "john doe",
+            "content": "Hi;)",
+            "author": "66d07a2c45b13a79028a3650",
+            "comments": [],
+            "categories": [],
+            "tags": [],
+            "media": [],
+            "likes": [],
+            "createdAt": "2024-09-08T11:44:42.815Z",
+            "updatedAt": "2024-09-08T11:44:42.815Z",
+            "__v": 0
+          }
+        ],
+        "comments": [],
+        "likes": [],
+        "subscriptions": [],
+        "badges": [],
+        "createdAt": "2024-08-29T13:39:56.550Z",
+        "updatedAt": "2024-08-29T13:39:56.551Z",
+        "__v": 0
+      },
+      {
+        "_id": "66dd85d772186e3166a9300f",
+        "username": "teame",
+        "email": "teame@gmail.com",
+        "passwordHash": "$2b$10$l0xJNA611zmMJklyiclStuxEdH0lHlLij/9S6yJi69zLisNeuALWe",
+        "dateOfBirth": "2000-01-01T00:00:00.000Z",
+        "bio": "I love natyre.",
+        "location": "New York",
+        "posts": [
+          {
+            "_id": "66dd8e695175c491fc16c82a",
+            "title": "teaa",
+            "content": "Hello from NYC",
+            "author": "66dd85d772186e3166a9300f",
+            "comments": [],
+            "categories": [],
+            "tags": [],
+            "media": [],
+            "likes": [],
+            "createdAt": "2024-09-08T11:45:45.503Z",
+            "updatedAt": "2024-09-08T11:45:45.503Z",
+            "__v": 0
+          }
+        ],
+        "comments": [],
+        "likes": [],
+        "subscriptions": [],
+        "badges": [],
+        "createdAt": "2024-09-08T11:09:11.804Z",
+        "updatedAt": "2024-09-08T11:09:11.804Z",
+        "__v": 0
+      },
+      {
+        "_id": "66dd863772186e3166a93012",
+        "username": "deadea",
+        "email": "dea@gmail.com",
+        "passwordHash": "$2b$10$4UKNPRlKP3DcjwwPyKNEi.ikKD2QnmiPweZhqscw3n6uvS09Drbb.",
+        "dateOfBirth": "2000-03-01T00:00:00.000Z",
+        "bio": ".",
+        "location": "New York",
+        "posts": [
+          {
+            "_id": "66dd8e9d5175c491fc16c82d",
+            "title": "dea",
+            "content": "Weekend",
+            "author": "66dd863772186e3166a93012",
+            "comments": [],
+            "categories": [],
+            "tags": [],
+            "media": [],
+            "likes": [],
+            "createdAt": "2024-09-08T11:46:37.486Z",
+            "updatedAt": "2024-09-08T11:46:37.486Z",
+            "__v": 0
+          }
+        ],
+        "comments": [],
+        "likes": [],
+        "subscriptions": [],
+        "badges": [],
+        "createdAt": "2024-09-08T11:10:47.043Z",
+        "updatedAt": "2024-09-08T11:10:47.043Z",
+        "__v": 0
+      },
+      {
+        "_id": "66dd869172186e3166a93015",
+        "username": "mia",
+        "email": "mia@gmail.com",
+        "passwordHash": "$2b$10$1nb7ocLgmtG49/VQo4Ljg.y4tf5y9NbUIZ/zCwIMNxzuG7G3ZmSWC",
+        "dateOfBirth": "2000-03-11T00:00:00.000Z",
+        "bio": "Singer",
+        "location": "UK",
+        "posts": [
+          {
+            "_id": "66dd8ec15175c491fc16c830",
+            "title": "mia",
+            "content": "Adele",
+            "author": "66dd869172186e3166a93015",
+            "comments": [],
+            "categories": [],
+            "tags": [],
+            "media": [],
+            "likes": [],
+            "createdAt": "2024-09-08T11:47:13.135Z",
+            "updatedAt": "2024-09-08T11:47:13.135Z",
+            "__v": 0
+          }
+        ],
+        "comments": [],
+        "likes": [],
+        "subscriptions": [],
+        "badges": [],
+        "createdAt": "2024-09-08T11:12:17.066Z",
+        "updatedAt": "2024-09-08T11:12:17.066Z",
+        "__v": 0
+      },
+      {
+        "_id": "66dd86c372186e3166a93018",
+        "username": "greata",
+        "email": "greata@gmail.com",
+        "passwordHash": "$2b$10$Ljj1e4bzHBooQmTO6PwHteL.Ba.fX/wwIbSpaOQnCxbsDoQa1eP66",
+        "dateOfBirth": "2000-03-11T00:00:00.000Z",
+        "bio": "Singer",
+        "location": "UK",
+        "posts": [
+          {
+            "_id": "66dd8def5175c491fc16c824",
+            "title": "greata",
+            "content": "Bff",
+            "author": "66dd86c372186e3166a93018",
+            "comments": [],
+            "categories": [],
+            "tags": [],
+            "media": [],
+            "likes": [],
+            "createdAt": "2024-09-08T11:43:43.995Z",
+            "updatedAt": "2024-09-08T11:43:43.995Z",
+            "__v": 0
+          }
+        ],
+        "comments": [],
+        "likes": [],
+        "subscriptions": [],
+        "badges": [],
+        "createdAt": "2024-09-08T11:13:07.420Z",
+        "updatedAt": "2024-09-08T11:13:07.420Z",
+        "__v": 0
+      },
+      {
+        "_id": "66ddbaad4341ff076f691d68",
+        "username": "grea",
+        "email": "gre@gmail.com",
+        "passwordHash": "$2b$10$W.q4GmifxZ5SAExMdxeDee0cfS5cpy30MDO.WtaGwxGSJdB5zDnfS",
+        "dateOfBirth": "2000-03-11T00:00:00.000Z",
+        "bio": "Singer",
+        "location": "UK",
+        "posts": [],
+        "comments": [],
+        "likes": [],
+        "subscriptions": [],
+        "badges": [],
+        "createdAt": "2024-09-08T14:54:37.946Z",
+        "updatedAt": "2024-09-08T14:54:37.946Z",
+        "__v": 0
+      },
+      {
+        "_id": "66ddbd312b2544eba96ef1d4",
+        "username": "greaeee",
+        "email": "greeee@gmail.com",
+        "passwordHash": "$2b$10$X0YLkCgmfyAlhJdbINgp5OPyX9b5WTf0Mgiua5Fd2BIrYQYSolWg.",
+        "dateOfBirth": "2000-03-11T00:00:00.000Z",
+        "bio": "Singer",
+        "location": "UK",
+        "posts": [],
+        "comments": [],
+        "likes": [],
+        "subscriptions": [],
+        "badges": [],
+        "createdAt": "2024-09-08T15:05:21.887Z",
+        "updatedAt": "2024-09-08T15:05:21.887Z",
+        "__v": 0
+      }
+    ]
+
+  ]
+}

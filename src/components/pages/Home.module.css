@@ -1,0 +1,113 @@
+.container {
+  
+  padding: 20px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 32px;
+}
+
+.carouselContainer {
+  margin-top: 100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.prevButton, .nextButton {
+  background-color: #dde0e400;
+  color: #A77E58;
+  border: none;
+  padding: 10px;
+  font-size: 50px;
+  cursor: pointer;
+  border-radius: 50%;
+  outline: none !important;
+}
+
+.prevButton:hover, .nextButton:hover {
+  background-color: #e9ebee00;
+}
+
+.cardContainer {
+  display: flex;
+  gap: 20px;
+  overflow: hidden;
+  max-width: 900px;
+}
+
+.card {
+  background-color: #d9cfc131;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  width: 300px;
+  padding: 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.cardHeader {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.profilePicture {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 10px;
+}
+
+.userInfo {
+  text-align: center;
+}
+
+.cardTitle {
+  font-size: 24px;
+  margin: 5px 0;
+  color: #3e3e3f;
+  text-decoration: none;
+}
+
+.cardTitle:hover {
+  color: #1b1b1b;
+  text-decoration:double;
+}
+
+.cardSubtitle {
+  font-size: 18px;
+  color: #555;
+}
+
+.cardText {
+  margin: 10px 0;
+  color: #777;
+}
+
+.buttonGroup {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.buttonDanger {
+  padding: 10px;
+  background-color: #A77E58;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.buttonDanger:hover {
+  background-color: #a77e58bd;
+}
